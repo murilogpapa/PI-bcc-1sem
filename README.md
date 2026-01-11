@@ -1,1 +1,2 @@
-Projeto desenvolvido ao final do primeiro semestre de ciência da computação
+# Projeto Integrador Ciencia da computação (1° semestre)
+jogo web
